@@ -1,0 +1,10 @@
+@import url("style.css");
+/* @media only all and (max-width: 480px) {
+  h2 {
+    display: none;
+  }
+} */
+
+h2 {
+  display: none;
+}
