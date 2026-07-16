@@ -1,0 +1,16 @@
+@import url("style.css");
+
+div {
+  color: red;
+}
+
+p {
+  padding-left: 1rem;
+}
+
+span {
+  padding-left: inherit;
+}
+#hello {
+  color: red;
+}
