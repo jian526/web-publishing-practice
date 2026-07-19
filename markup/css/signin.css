@@ -16,9 +16,9 @@
   text-align: center;
 } */
 
-main {
+/* main {
   position: relative;
-}
+} */
 
 .signin-container {
   position: absolute;
@@ -27,7 +27,7 @@ main {
   transform: translate(-50%, -50%);
 }
 
-.sign-container h1 {
+.signin-container h1 {
   font-size: 2.5rem;
 }
 
@@ -61,7 +61,7 @@ main {
   color: black;
 }
 
-.sign-container {
+.signin-container {
   width: 100%;
   text-align: center;
 }
