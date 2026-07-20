@@ -93,3 +93,9 @@ header {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+@media only all and (max-width: 400px) {
+  html {
+    font-size: 9px;
+  }
+}
